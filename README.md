@@ -1,4 +1,4 @@
 # instagram_basic_clone_mysql
-A SQL schema for an Instagram-like application
+An SQL schema for an Instagram-like application
 
 The .sql file is all there is to this repo, created as a reference for myself.
